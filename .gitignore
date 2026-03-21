@@ -1,0 +1,11 @@
+*.txt
+*.dat
+data_old.win
+*.dll
+*.exe
+*.yytex
+*.ini
+*.temp
+*.ase
+*.ogg
+*.png
